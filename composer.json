@@ -3,7 +3,7 @@
     "description": "Ajax based site wide ticket and comment system for laravel",
     "type": "library",
     "license": "MIT",
-    "keywords": ["laravel", "ticket", "comment", "ajax"],
+    "keywords": ["laravel", "ticket", "comment", "ajax","system"],
     "authors": [
         {
             "name": "mehmetcanfarsak",
