@@ -1,20 +1,20 @@
 {
-    "name": "risul/laravel-like-comment",
-    "description": "Ajax based site wide like and comment system for laravel",
+    "name": "mehmetcanfarsak/laravel-comment-and-ticket",
+    "description": "Ajax based site wide ticket and comment system for laravel",
     "type": "library",
     "license": "MIT",
-    "keywords": ["laravel", "like", "comment", "ajax"],
+    "keywords": ["laravel", "ticket", "comment", "ajax"],
     "authors": [
         {
-            "name": "risul",
-            "email": "risul321@gmail.com"
+            "name": "mehmetcanfarsak",
+            "email": "mehmetcanfarsak@gmail.com"
         }
     ],
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
-            "risul\\LaravelLikeComment\\": "src/"
+            "mehmetcanfarsak\\laravel-comment-and-ticket\\": "src/"
         }
     }
 }
